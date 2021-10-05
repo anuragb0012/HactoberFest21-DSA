@@ -15,4 +15,4 @@
 Note:- Don't add Hello world programs try to maintain "quality over quantity".
 
 # Maintain the code of conduct and open source guidelines.
-# All the best for Hacktober2K21 :).
+# All the best for HacktoberFest21 :).
