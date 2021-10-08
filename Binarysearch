@@ -11,7 +11,7 @@ int BinarySearch(int A[],int n,int x)
         return mid;
         else if(A[mid]<x)
         low=mid+1;
-        else high=mid+1;
+        else high=mid-1;
     }
     return -1;
 }
